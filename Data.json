@@ -1,0 +1,19 @@
+
+{
+    "responepost":
+    {
+
+    "Successstaus":200,
+    "Notfound" :404,
+    "data":
+    [
+        {
+        "code": 200,
+        "type": "unknown",
+        "message": "ok"
+        }
+    ]
+    }
+}
+
+

@@ -1,0 +1,60 @@
+{
+"response":
+{
+    "status":"success",
+    "req_contenttype":"application/json",
+    "res_encoding":"chucked",
+    "username":"madan",
+    "header" : "header",
+    "contentType" : "Content-Type",
+    "header_Status" : "Status",
+    "res_transferencoding" :"Transfer-Encoding",
+    "res_messages"  :"Ok",
+    "req_connection":"Connection",
+    "connection": "keep-alive",
+    
+    "data":
+    [
+        "Res_body":
+        {
+            "id": 1,
+            "username": "madan",
+            "firstName": "madanmohan",
+            "lastName": "string",
+            "email": "string",
+            "password": "string",
+            "phone": "string",
+            "userStatus": 0
+
+        },
+        "res_header":
+        
+        {
+
+        }
+        
+    
+    ]
+
+}
+,
+"user_request":{
+
+
+    
+        "data":
+        [
+
+        {
+            "username":"madan"
+            
+        },
+        {
+            "username":"madanmohan"
+        }
+    ]
+        
+    }
+
+}
+

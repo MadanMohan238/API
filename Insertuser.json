@@ -1,0 +1,13 @@
+{
+"response":
+{
+    "id": 1,
+    "username": "madan",
+    "firstName": "madanmohan",
+    "lastName": "string",
+    "email": "string",
+    "password": "string",
+    "phone": "string",
+    "userStatus": 0
+  }
+}

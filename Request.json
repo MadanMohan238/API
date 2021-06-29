@@ -1,0 +1,27 @@
+{
+   " request":
+   
+   [
+    {
+    "id": 1,
+    "username": "madan",
+    "firstName": "madanmohan",
+    "lastName": "string",
+    "email": "madanmohanbabu.sanag@hcl.com",
+    "password": "string",
+    "phone": "string",
+    "userStatus": 0
+    },
+    
+    {
+        "id": 1,
+        "username": "madan",
+        "firstName": "madanmohan",
+        "lastName": "string",
+        "email": "madanmohanbabu.sanag@hcl.com",
+        "password": "string",
+        "phone": "string",
+        "userStatus": 0
+        }]
+    
+}

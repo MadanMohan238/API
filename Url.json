@@ -1,0 +1,7 @@
+{
+"singleuser": "https://petstore.swagger.io/v2/user/",
+ "insertinguser": "https://petstore.swagger.io/v2/user/createWithList",
+
+ "updatinguser": "https://petstore.swagger.io/v2/user/",
+ "deleteuser" : "https://petstore.swagger.io/v2/user/"
+}

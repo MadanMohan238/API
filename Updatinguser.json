@@ -1,0 +1,32 @@
+
+{
+"Update_Request":
+{
+"req_id":"id",
+"req_username":"username",
+"req_firstname": "firstname",
+"req_lastname":"lastname",
+"req_email":"email",
+"req_password":"password",
+"req_phone":"phone",
+"req_userstatus":"userstatus",
+
+
+"data":
+[
+
+    {
+        "id": 0,
+        "username": "string",
+        "firstName": "madhu",
+        "lastName": "string",
+        "email": "string",
+        "password": "string",
+        "phone": "string",
+        "userStatus": 0
+    }
+]   
+
+}
+
+}
